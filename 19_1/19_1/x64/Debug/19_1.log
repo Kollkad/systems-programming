@@ -1,0 +1,7 @@
+﻿  Ihuman.cpp
+C:\Users\386\source\repos\koshkina_pzs\19_1\Ihuman.cpp(9,80): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\386\source\repos\koshkina_pzs\19_1\Ihuman.cpp(9,66): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\386\source\repos\koshkina_pzs\19_1\Ihuman.cpp(21,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\386\source\repos\koshkina_pzs\19_1\Ihuman.cpp(21,68): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\386\source\repos\koshkina_pzs\19_1\Ihuman.cpp(27,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  19_1.vcxproj -> C:\Users\386\source\repos\koshkina_pzs\19_1\x64\Debug\19_1.exe

@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\Ihuman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:Ihuman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\Ihuman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:Ihuman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\kid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:kid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\teenager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:teenager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\teenager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:teenager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\adult.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:adult.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\adult.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:adult.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\kid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:kid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\anyHuman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:anyHuman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\anyHuman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DABC56-E843-4A08-BCCF-88A09ACC32EE}|19_1.vcxproj|solutionrelative:anyHuman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 242,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T06:48:34.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "anyHuman.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\anyHuman.cpp",
+              "RelativeDocumentMoniker": "anyHuman.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\anyHuman.cpp",
+              "RelativeToolTip": "anyHuman.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T05:25:25.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adult.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\adult.h",
+              "RelativeDocumentMoniker": "adult.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\adult.h",
+              "RelativeToolTip": "adult.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T07:17:10.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "teenager.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\teenager.cpp",
+              "RelativeDocumentMoniker": "teenager.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\teenager.cpp",
+              "RelativeToolTip": "teenager.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T08:50:12.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "anyHuman.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\anyHuman.h",
+              "RelativeDocumentMoniker": "anyHuman.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\anyHuman.h",
+              "RelativeToolTip": "anyHuman.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T05:25:57.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adult.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\adult.cpp",
+              "RelativeDocumentMoniker": "adult.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\adult.cpp",
+              "RelativeToolTip": "adult.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T08:14:26.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "teenager.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\teenager.h",
+              "RelativeDocumentMoniker": "teenager.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\teenager.h",
+              "RelativeToolTip": "teenager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T07:12:17.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ihuman.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\Ihuman.h",
+              "RelativeDocumentMoniker": "Ihuman.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\Ihuman.h",
+              "RelativeToolTip": "Ihuman.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T07:11:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ihuman.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\Ihuman.cpp",
+              "RelativeDocumentMoniker": "Ihuman.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\Ihuman.cpp",
+              "RelativeToolTip": "Ihuman.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T07:33:47.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kid.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\kid.h",
+              "RelativeDocumentMoniker": "kid.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\kid.h",
+              "RelativeToolTip": "kid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T07:17:05.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kid.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\kid.cpp",
+              "RelativeDocumentMoniker": "kid.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\19_1\\kid.cpp",
+              "RelativeToolTip": "kid.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T07:23:03.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
