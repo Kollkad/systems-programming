@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IResources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:IResources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IResources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:IResources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IPriut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:IPriut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IAnimal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:IAnimal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Awaiting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:Awaiting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Awaiting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:Awaiting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\AnimalMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:AnimalMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Members.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:Members.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\AnimalMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:AnimalMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IPriut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:IPriut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IAnimal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:IAnimal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Members.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDB2E10-DF16-42FC-91BD-926267632295}|kr_classP.vcxproj|solutionrelative:Members.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 242,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Material.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Material.h",
+              "RelativeDocumentMoniker": "Material.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Material.h",
+              "RelativeToolTip": "Material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T06:41:55.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Material.cpp",
+              "RelativeDocumentMoniker": "Material.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Material.cpp",
+              "RelativeToolTip": "Material.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T06:44:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Food.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Food.h",
+              "RelativeDocumentMoniker": "Food.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Food.h",
+              "RelativeToolTip": "Food.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T06:27:22.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Food.cpp",
+              "RelativeDocumentMoniker": "Food.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Food.cpp",
+              "RelativeToolTip": "Food.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T06:33:32.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnimalMember.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\AnimalMember.h",
+              "RelativeDocumentMoniker": "AnimalMember.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\AnimalMember.h",
+              "RelativeToolTip": "AnimalMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T05:48:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimalMember.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\AnimalMember.cpp",
+              "RelativeDocumentMoniker": "AnimalMember.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\AnimalMember.cpp",
+              "RelativeToolTip": "AnimalMember.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T05:58:01.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Awaiting.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Awaiting.h",
+              "RelativeDocumentMoniker": "Awaiting.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Awaiting.h",
+              "RelativeToolTip": "Awaiting.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T05:30:11.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Awaiting.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Awaiting.cpp",
+              "RelativeDocumentMoniker": "Awaiting.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Awaiting.cpp",
+              "RelativeToolTip": "Awaiting.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T05:35:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Members.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Members.h",
+              "RelativeDocumentMoniker": "Members.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Members.h",
+              "RelativeToolTip": "Members.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T05:15:25.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Members.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Members.cpp",
+              "RelativeDocumentMoniker": "Members.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\Members.cpp",
+              "RelativeToolTip": "Members.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T05:21:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IResources.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IResources.h",
+              "RelativeDocumentMoniker": "IResources.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IResources.h",
+              "RelativeToolTip": "IResources.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T09:27:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IResources.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IResources.cpp",
+              "RelativeDocumentMoniker": "IResources.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IResources.cpp",
+              "RelativeToolTip": "IResources.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T09:27:21.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimal.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IAnimal.h",
+              "RelativeDocumentMoniker": "IAnimal.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IAnimal.h",
+              "RelativeToolTip": "IAnimal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T08:54:14.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAnimal.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IAnimal.cpp",
+              "RelativeDocumentMoniker": "IAnimal.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IAnimal.cpp",
+              "RelativeToolTip": "IAnimal.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T08:54:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPriut.h",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IPriut.h",
+              "RelativeDocumentMoniker": "IPriut.h",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IPriut.h",
+              "RelativeToolTip": "IPriut.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T07:12:21.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPriut.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IPriut.cpp",
+              "RelativeDocumentMoniker": "IPriut.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\IPriut.cpp",
+              "RelativeToolTip": "IPriut.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T07:11:59.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\386\\source\\repos\\koshkina_pzs\\kr_classP\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T07:11:22.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
